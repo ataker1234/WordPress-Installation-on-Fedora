@@ -17,3 +17,6 @@ This project automates the deployment of a secure WordPress site on a Fedora ser
 chmod +x scripts/install_wordpress.sh
 sudo ./scripts/install_wordpress.sh
 ```
+
+## For the Full Guide
+[Check my website](https://atakan.nexonet.space/)
